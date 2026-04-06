@@ -161,8 +161,8 @@
             height: 400px;
             width: 100%;
             display: grid;
-            grid-template-columns: 15% 15% 15%;
-            grid-template-rows: 40% 15% 40%;
+            grid-template-columns: 25% 25% 15%;
+            grid-template-rows: 30% 35% 30%;
             align-items: center;
             justify-content: center;
             margin-top: -10px;
